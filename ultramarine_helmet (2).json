@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "KKKKK",
+    "KLGLK",
+    "KKRKK",
+    "K   K"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "K": {
+      "item": "spacemarine:keramite_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "spacemarine:ultramarine_helmet"
+  }
+}

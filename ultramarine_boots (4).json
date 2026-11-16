@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "KKK KKK",
+    "KLK KLK",
+    "KKK KKK"
+  ],
+  "key": {
+    "K": {
+      "item": "spacemarine:keramite_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "spacemarine:ultramarine_boots"
+  }
+}

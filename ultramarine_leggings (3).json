@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "KKKKK",
+    "KGKGK",
+    "KK KK",
+    "KK KK",
+    "KL LK"
+  ],
+  "key": {
+    "K": {
+      "item": "spacemarine:keramite_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "spacemarine:ultramarine_leggings"
+  }
+}

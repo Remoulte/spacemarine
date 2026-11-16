@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "KK   KK",
+    "KKKKKKK",
+    "KLKGKLK",
+    "KKKKKKK",
+    " KKBKK ",
+    " KKKKK "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "K": {
+      "item": "spacemarine:keramite_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "B": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "spacemarine:ultramarine_chestplate"
+  }
+}
